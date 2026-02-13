@@ -1,5 +1,3 @@
-<img width="1108" height="835" alt="Screenshot 2026-02-13 144352" src="https://github.com/user-attachments/assets/2304588d-03d1-44bd-8239-ededbafdd485" /># Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
-
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 
@@ -14,9 +12,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 4. 
 
 ## Program:
-![Uploading Screenshot 2026-02-13 1443<img width="977" height="154" alt="Screenshot 2026-02-13 144402" src="https://github.com/user-attachments/assets/8d82e8a2-df85-4e56-975c-99680e80f5ec" />
-52.png…]()
-<img width="977" height="154" alt="Screenshot 2026-02-13 144402" src="https://github.com/user-attachments/assets/c9d8bf7c-dd23-4ffd-a6d2-243cf0b08bff" />
+<img width="1108" height="835" alt="Screenshot 2026-02-13 144352" src="https://github.com/user-attachments/assets/28ed5d15-297c-43b9-97cb-d9585e15c661" />
+<img width="977" height="154" alt="Screenshot 2026-02-13 144402" src="https://github.com/user-attachments/assets/ed2450ec-b260-4b7a-b46c-d303a81e9e03" />
 
 ```
 /*
